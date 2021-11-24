@@ -1,0 +1,289 @@
+E:\GIP\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\GIP-WebApp.dll.config
+E:\GIP\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\GIP-WebApp.dll
+E:\GIP\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\GIP-WebApp.pdb
+E:\GIP\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\csc.exe
+E:\GIP\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\csc.exe.config
+E:\GIP\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\csc.rsp
+E:\GIP\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\csi.exe
+E:\GIP\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\csi.exe.config
+E:\GIP\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\csi.rsp
+E:\GIP\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\GIP\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\GIP\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\GIP\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\GIP\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\GIP\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\GIP\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\GIP\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\GIP\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\GIP\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+E:\GIP\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\GIP\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\GIP\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.AppContext.dll
+E:\GIP\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Collections.Immutable.dll
+E:\GIP\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Console.dll
+E:\GIP\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\GIP\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\GIP\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\GIP\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Globalization.Calendars.dll
+E:\GIP\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.IO.Compression.dll
+E:\GIP\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\GIP\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.IO.FileSystem.dll
+E:\GIP\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\GIP\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Net.Http.dll
+E:\GIP\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Net.Sockets.dll
+E:\GIP\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Reflection.Metadata.dll
+E:\GIP\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\GIP\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\GIP\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\GIP\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\GIP\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\GIP\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\GIP\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\GIP\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.ValueTuple.dll
+E:\GIP\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\GIP\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+E:\GIP\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Xml.XPath.dll
+E:\GIP\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\GIP\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\vbc.exe
+E:\GIP\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\vbc.exe.config
+E:\GIP\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\vbc.rsp
+E:\GIP\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\VBCSCompiler.exe
+E:\GIP\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\VBCSCompiler.exe.config
+E:\GIP\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\GIP\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\obj\Debug\GIP-WebApp.csproj.AssemblyReference.cache
+E:\GIP\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\obj\Debug\GIP-WebApp.csproj.CoreCompileInputs.cache
+E:\GIP\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\obj\Debug\GIP-WebApp.csproj.CopyComplete
+E:\GIP\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\obj\Debug\GIP-WebApp.dll
+E:\GIP\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\obj\Debug\GIP-WebApp.pdb
+C:\Users\flori\Desktop\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\GIP-WebApp.dll.config
+C:\Users\flori\Desktop\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\GIP-WebApp.dll
+C:\Users\flori\Desktop\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\GIP-WebApp.pdb
+C:\Users\flori\Desktop\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\csc.exe
+C:\Users\flori\Desktop\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\csc.exe.config
+C:\Users\flori\Desktop\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\csc.rsp
+C:\Users\flori\Desktop\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\csi.exe
+C:\Users\flori\Desktop\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\csi.exe.config
+C:\Users\flori\Desktop\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\csi.rsp
+C:\Users\flori\Desktop\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\flori\Desktop\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\flori\Desktop\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\flori\Desktop\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\flori\Desktop\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\flori\Desktop\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\flori\Desktop\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\flori\Desktop\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\flori\Desktop\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\flori\Desktop\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\flori\Desktop\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\flori\Desktop\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\flori\Desktop\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.AppContext.dll
+C:\Users\flori\Desktop\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\flori\Desktop\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Console.dll
+C:\Users\flori\Desktop\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\flori\Desktop\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\flori\Desktop\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\flori\Desktop\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\flori\Desktop\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\flori\Desktop\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\flori\Desktop\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\flori\Desktop\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\flori\Desktop\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Net.Http.dll
+C:\Users\flori\Desktop\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\flori\Desktop\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\flori\Desktop\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\flori\Desktop\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\flori\Desktop\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\flori\Desktop\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\flori\Desktop\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\flori\Desktop\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\flori\Desktop\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\flori\Desktop\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\flori\Desktop\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\flori\Desktop\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\flori\Desktop\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\flori\Desktop\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\flori\Desktop\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\vbc.exe
+C:\Users\flori\Desktop\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\vbc.exe.config
+C:\Users\flori\Desktop\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\vbc.rsp
+C:\Users\flori\Desktop\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\flori\Desktop\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\flori\Desktop\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\flori\Desktop\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\obj\Debug\GIP-WebApp.csprojAssemblyReference.cache
+C:\Users\flori\Desktop\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\obj\Debug\GIP-WebApp.csproj.CoreCompileInputs.cache
+C:\Users\flori\Desktop\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\obj\Debug\GIP-WebApp.csproj.CopyComplete
+C:\Users\flori\Desktop\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\obj\Debug\GIP-WebApp.dll
+C:\Users\flori\Desktop\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\obj\Debug\GIP-WebApp.pdb
+E:\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\GIP-WebApp.dll.config
+E:\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\GIP-WebApp.dll
+E:\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\GIP-WebApp.pdb
+E:\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\csc.exe
+E:\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\csc.exe.config
+E:\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\csc.rsp
+E:\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\csi.exe
+E:\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\csi.exe.config
+E:\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\csi.rsp
+E:\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+E:\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.AppContext.dll
+E:\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Collections.Immutable.dll
+E:\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Console.dll
+E:\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Globalization.Calendars.dll
+E:\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.IO.Compression.dll
+E:\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.IO.FileSystem.dll
+E:\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Net.Http.dll
+E:\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Net.Sockets.dll
+E:\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Reflection.Metadata.dll
+E:\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.ValueTuple.dll
+E:\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+E:\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Xml.XPath.dll
+E:\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\vbc.exe
+E:\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\vbc.exe.config
+E:\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\vbc.rsp
+E:\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\VBCSCompiler.exe
+E:\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\VBCSCompiler.exe.config
+E:\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\obj\Debug\GIP-WebApp.csproj.AssemblyReference.cache
+E:\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\obj\Debug\GIP-WebApp.csproj.CoreCompileInputs.cache
+E:\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\obj\Debug\GIP-WebApp.csproj.CopyComplete
+E:\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\obj\Debug\GIP-WebApp.dll
+E:\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\obj\Debug\GIP-WebApp.pdb
+C:\Users\ramak\OneDrive\Bureaublad\Gip 6BI\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\obj\Debug\GIP-WebApp.dll
+C:\Users\ramak\OneDrive\Bureaublad\Gip 6BI\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\obj\Debug\GIP-WebApp.pdb
+C:\Users\ramak\OneDrive\Bureaublad\Gip 6BI\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\GIP-WebApp.dll.config
+C:\Users\ramak\OneDrive\Bureaublad\Gip 6BI\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\GIP-WebApp.dll
+C:\Users\ramak\OneDrive\Bureaublad\Gip 6BI\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\GIP-WebApp.pdb
+C:\Users\ramak\OneDrive\Bureaublad\Gip 6BI\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\csc.exe
+C:\Users\ramak\OneDrive\Bureaublad\Gip 6BI\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\csc.exe.config
+C:\Users\ramak\OneDrive\Bureaublad\Gip 6BI\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\csc.rsp
+C:\Users\ramak\OneDrive\Bureaublad\Gip 6BI\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\csi.exe
+C:\Users\ramak\OneDrive\Bureaublad\Gip 6BI\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\csi.exe.config
+C:\Users\ramak\OneDrive\Bureaublad\Gip 6BI\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\csi.rsp
+C:\Users\ramak\OneDrive\Bureaublad\Gip 6BI\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ramak\OneDrive\Bureaublad\Gip 6BI\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ramak\OneDrive\Bureaublad\Gip 6BI\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ramak\OneDrive\Bureaublad\Gip 6BI\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ramak\OneDrive\Bureaublad\Gip 6BI\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ramak\OneDrive\Bureaublad\Gip 6BI\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ramak\OneDrive\Bureaublad\Gip 6BI\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ramak\OneDrive\Bureaublad\Gip 6BI\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ramak\OneDrive\Bureaublad\Gip 6BI\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ramak\OneDrive\Bureaublad\Gip 6BI\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ramak\OneDrive\Bureaublad\Gip 6BI\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ramak\OneDrive\Bureaublad\Gip 6BI\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ramak\OneDrive\Bureaublad\Gip 6BI\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.AppContext.dll
+C:\Users\ramak\OneDrive\Bureaublad\Gip 6BI\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ramak\OneDrive\Bureaublad\Gip 6BI\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Console.dll
+C:\Users\ramak\OneDrive\Bureaublad\Gip 6BI\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ramak\OneDrive\Bureaublad\Gip 6BI\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ramak\OneDrive\Bureaublad\Gip 6BI\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ramak\OneDrive\Bureaublad\Gip 6BI\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ramak\OneDrive\Bureaublad\Gip 6BI\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\ramak\OneDrive\Bureaublad\Gip 6BI\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ramak\OneDrive\Bureaublad\Gip 6BI\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ramak\OneDrive\Bureaublad\Gip 6BI\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ramak\OneDrive\Bureaublad\Gip 6BI\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Net.Http.dll
+C:\Users\ramak\OneDrive\Bureaublad\Gip 6BI\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ramak\OneDrive\Bureaublad\Gip 6BI\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ramak\OneDrive\Bureaublad\Gip 6BI\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ramak\OneDrive\Bureaublad\Gip 6BI\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ramak\OneDrive\Bureaublad\Gip 6BI\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ramak\OneDrive\Bureaublad\Gip 6BI\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ramak\OneDrive\Bureaublad\Gip 6BI\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ramak\OneDrive\Bureaublad\Gip 6BI\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ramak\OneDrive\Bureaublad\Gip 6BI\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ramak\OneDrive\Bureaublad\Gip 6BI\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\ramak\OneDrive\Bureaublad\Gip 6BI\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ramak\OneDrive\Bureaublad\Gip 6BI\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ramak\OneDrive\Bureaublad\Gip 6BI\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ramak\OneDrive\Bureaublad\Gip 6BI\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ramak\OneDrive\Bureaublad\Gip 6BI\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\vbc.exe
+C:\Users\ramak\OneDrive\Bureaublad\Gip 6BI\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\vbc.exe.config
+C:\Users\ramak\OneDrive\Bureaublad\Gip 6BI\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\vbc.rsp
+C:\Users\ramak\OneDrive\Bureaublad\Gip 6BI\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\ramak\OneDrive\Bureaublad\Gip 6BI\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ramak\OneDrive\Bureaublad\Gip 6BI\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ramak\OneDrive\Bureaublad\Gip 6BI\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\obj\Debug\GIP-WebApp.csproj.AssemblyReference.cache
+C:\Users\ramak\OneDrive\Bureaublad\Gip 6BI\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\obj\Debug\GIP-WebApp.csproj.CoreCompileInputs.cache
+C:\Users\flori\Desktop\gip-6bi\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\GIP-WebApp.dll.config
+C:\Users\flori\Desktop\gip-6bi\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\GIP-WebApp.dll
+C:\Users\flori\Desktop\gip-6bi\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\GIP-WebApp.pdb
+C:\Users\flori\Desktop\gip-6bi\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\csc.exe
+C:\Users\flori\Desktop\gip-6bi\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\csc.exe.config
+C:\Users\flori\Desktop\gip-6bi\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\csc.rsp
+C:\Users\flori\Desktop\gip-6bi\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\csi.exe
+C:\Users\flori\Desktop\gip-6bi\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\csi.exe.config
+C:\Users\flori\Desktop\gip-6bi\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\csi.rsp
+C:\Users\flori\Desktop\gip-6bi\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\flori\Desktop\gip-6bi\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\flori\Desktop\gip-6bi\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\flori\Desktop\gip-6bi\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\flori\Desktop\gip-6bi\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\flori\Desktop\gip-6bi\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\flori\Desktop\gip-6bi\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\flori\Desktop\gip-6bi\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\flori\Desktop\gip-6bi\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\flori\Desktop\gip-6bi\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\flori\Desktop\gip-6bi\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\flori\Desktop\gip-6bi\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\flori\Desktop\gip-6bi\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.AppContext.dll
+C:\Users\flori\Desktop\gip-6bi\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\flori\Desktop\gip-6bi\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Console.dll
+C:\Users\flori\Desktop\gip-6bi\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\flori\Desktop\gip-6bi\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\flori\Desktop\gip-6bi\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\flori\Desktop\gip-6bi\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\flori\Desktop\gip-6bi\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\flori\Desktop\gip-6bi\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\flori\Desktop\gip-6bi\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\flori\Desktop\gip-6bi\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\flori\Desktop\gip-6bi\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Net.Http.dll
+C:\Users\flori\Desktop\gip-6bi\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\flori\Desktop\gip-6bi\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\flori\Desktop\gip-6bi\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\flori\Desktop\gip-6bi\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\flori\Desktop\gip-6bi\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\flori\Desktop\gip-6bi\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\flori\Desktop\gip-6bi\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\flori\Desktop\gip-6bi\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\flori\Desktop\gip-6bi\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\flori\Desktop\gip-6bi\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\flori\Desktop\gip-6bi\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\flori\Desktop\gip-6bi\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\flori\Desktop\gip-6bi\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\flori\Desktop\gip-6bi\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\flori\Desktop\gip-6bi\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\vbc.exe
+C:\Users\flori\Desktop\gip-6bi\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\vbc.exe.config
+C:\Users\flori\Desktop\gip-6bi\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\vbc.rsp
+C:\Users\flori\Desktop\gip-6bi\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\flori\Desktop\gip-6bi\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\flori\Desktop\gip-6bi\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\flori\Desktop\gip-6bi\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\obj\Debug\GIP-WebApp.csproj.AssemblyReference.cache
+C:\Users\flori\Desktop\gip-6bi\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\obj\Debug\GIP-WebApp.csproj.CoreCompileInputs.cache
+C:\Users\flori\Desktop\gip-6bi\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\obj\Debug\GIP-WebApp.csproj.CopyComplete
+C:\Users\flori\Desktop\gip-6bi\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\obj\Debug\GIP-WebApp.dll
+C:\Users\flori\Desktop\gip-6bi\gip-6bi\Taken TINF\Taak C - Bestanden\GIP-WebApp\GIP-WebApp\obj\Debug\GIP-WebApp.pdb

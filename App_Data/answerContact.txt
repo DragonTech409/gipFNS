@@ -1,0 +1,35 @@
+﻿<img src="https://i.imgur.com/8fys4BC.png" alt="foto auto" /><br /><br /> 
+ 
+<div style="border-top: 3px solid #0D569F"></div> 
+ 
+<div style="font-family: Verdana, sans-serif; font-size: 10pt"> 
+ 
+    <p>Dear ##name##</p> 
+ 
+    <p> 
+        Thank you for your interest.<br /> 
+        We will answer your message as soon as possible.
+    </p> 
+ 
+    <p> 
+        Your detailss:<br /> 
+        <strong>Name</strong>: ##name##<br />
+        <strong>E-mail address</strong>: ##email##<br />
+        <strong>Subject</strong>: ##subject##<br />
+        <strong>Comment</strong>: ##comment## 
+    </p> 
+
+    <p> 
+        Sincerely
+        <br /> 
+        Garage Peeters
+    </p>
+ 
+    <p style="font-size: 6pt"> 
+        The content of this message is intended for the addressee only and may contain confidential or personal information. 
+        If you have inadvertently received this message please destroy it and inform the sender. 
+        It is not allowed to multiply a message that is not intended for you or to spread out. 
+        No rights can be derived from this message including the appendices unless otherwise agreed. 
+        The Band does not accept sole liability for damage and/or costs arising from incomplete or incorrect information in e-mail messages.
+    </p> 
+</div>
